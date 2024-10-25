@@ -256,6 +256,6 @@ require_once ABSPATH . 'wp-settings.php';
 
 Finalente logeamos en wordpress con las credenciales que creamos en el paso 4 de la instalación de wordpress.
 
-
+![05.png](images/05.png)
 
 #### OPCIONAL: Instala phpmyadmin en el contenedor siguiendo esta guía. Comprueba que puedes acceder.
